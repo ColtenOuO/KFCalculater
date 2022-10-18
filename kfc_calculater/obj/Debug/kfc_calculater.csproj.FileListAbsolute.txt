@@ -1,0 +1,10 @@
+C:\Users\Colten\source\repos\kfc_calculater\kfc_calculater\bin\Debug\kfc_calculater.exe.config
+C:\Users\Colten\source\repos\kfc_calculater\kfc_calculater\bin\Debug\kfc_calculater.exe
+C:\Users\Colten\source\repos\kfc_calculater\kfc_calculater\bin\Debug\kfc_calculater.pdb
+C:\Users\Colten\source\repos\kfc_calculater\kfc_calculater\obj\Debug\kfc_calculater.csprojAssemblyReference.cache
+C:\Users\Colten\source\repos\kfc_calculater\kfc_calculater\obj\Debug\kfc_calculater.Form1.resources
+C:\Users\Colten\source\repos\kfc_calculater\kfc_calculater\obj\Debug\kfc_calculater.Properties.Resources.resources
+C:\Users\Colten\source\repos\kfc_calculater\kfc_calculater\obj\Debug\kfc_calculater.csproj.GenerateResource.cache
+C:\Users\Colten\source\repos\kfc_calculater\kfc_calculater\obj\Debug\kfc_calculater.csproj.CoreCompileInputs.cache
+C:\Users\Colten\source\repos\kfc_calculater\kfc_calculater\obj\Debug\kfc_calculater.exe
+C:\Users\Colten\source\repos\kfc_calculater\kfc_calculater\obj\Debug\kfc_calculater.pdb
